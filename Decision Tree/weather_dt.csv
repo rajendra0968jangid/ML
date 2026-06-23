@@ -1,0 +1,15 @@
+DAY,Weather,Temp,Humidity,Wind,Status
+Day 1,Sunny,Hot,High,Weak,NO
+Day 2,Sunny,Hot,High,Strong,NO
+Day 3,Overcast,Hot,High,Weak,YES
+Day 4,Rain,Mild,High,Weak,YES
+Day 5,Rain,Cool,Normal,Weak,YES
+Day 6,Rain,Cool,Normal,Strong,NO
+Day 7,Overcast,Cool,Normal,Strong,YES
+Day 8,Sunny,Mild,High,Weak,NO
+Day 9,Sunny,Cool,Normal,Weak,YES
+Day 10,Rain,Mild,Normal,Weak,YES
+Day 11,Sunny,Mild,Normal,Strong,YES
+Day 12,Overcast,Mild,High,Strong,YES
+Day 13,Overcast,Hot,Normal,Weak,YES
+Day 14,Rain,Mild,High,Strong,NO

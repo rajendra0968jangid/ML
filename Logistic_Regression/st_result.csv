@@ -1,0 +1,11 @@
+study_hrs,attendance,assignment,internal_marks,previous_percentage,RESULT
+2,60,50,45,50,FAIL
+4,65,55,50,55,FAIL
+6,70,65,60,60,PASS
+8,90,80,85,88,PASS
+1,50,40,35,45,FAIL
+3,55,45,40,48,FAIL
+7,85,78,80,82,PASS
+9,95,92,95,96,PASS
+5,75,70,68,72,PASS
+6,80,74,72,75,PASS
