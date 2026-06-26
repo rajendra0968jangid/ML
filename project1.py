@@ -1,3 +1,17 @@
+# docker pull mysql:8.0
+
+# docker run -d \
+# --name mysql_container \
+# -p 3306:3306 \
+# -e MYSQL_ROOT_PASSWORD=root123 \
+# -e MYSQL_DATABASE=ml_db \
+# -e MYSQL_USER=mluser \
+# -e MYSQL_PASSWORD=mlpass123 \
+# mysql:8.0
+
+
+
+
 import pandas as pd
 import mysql.connector
 from sklearn.linear_model import LinearRegression
